@@ -35,5 +35,5 @@ for producto in menu:
     nombre, categoria, precio_base = producto
     precio_final = calcular_precio_final(producto)
     print(f"{nombre:<15}{categoria:<20}${precio_base:<14}{'$'+str(int(precio_final)):<15}")  
-    prueba = precio_final
+
     
