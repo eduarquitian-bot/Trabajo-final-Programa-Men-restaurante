@@ -6,8 +6,8 @@ print("=" * 60)
 
 # Matriz de productos: [Nombre, Categoría, Precio Base]
 menu = [
-    ["Hamburguesa", "Comida Rápida", 18000],
-    ["Pizza", "Comida Rápida", 25000],
+    ["Hamburguesa", "Comida Rápida", 30000],
+    ["Pizza", "Comida Rápida", 21000],
     ["Ensalada", "Saludable", 12000],
     ["Sopa", "Tradicional", 10000],
     ["Jugo Natural", "Bebida", 8000],
